@@ -1,0 +1,8 @@
+### YamlMime:TableOfContent
+items:
+- uid: ClassLibTest
+  name: ClassLibTest
+  items:
+  - uid: ClassLibTest.Class1
+    name: Class1
+memberLayout: SamePage
